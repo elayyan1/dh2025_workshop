@@ -134,7 +134,7 @@
 	"id": "https://raw.githubusercontent.com/elayyan1/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715145557298",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-07-15T13:55:57.298Z",
-	"dcterms:modified": "2025-07-15T13:55:57.298Z",
+	"dcterms:modified": "2025-07-15T13:57:13.843Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/elayyan1",
 		"@type": [
@@ -168,7 +168,9 @@
 		"@type": [
 			"schema:Person",
 			"cwrc:FictionalPerson"
-		]
+		],
+		"@id": "http://www.wikidata.org/entity/Q1398",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -224,7 +226,7 @@
 
             <lg n="5" xml:id="lg005">
                <l n="13">“Let us descend now into the blind world,”</l>
-               <l n="14">Began <persName type="fictional" xml:id="virg01">the Poet</persName>, pallid utterly;</l>
+               <l n="14">Began <persName type="fictional" xml:id="virg01" key="Virgil" ref="http://www.wikidata.org/entity/Q1398">the Poet</persName>, pallid utterly;</l>
                <l n="15">“I will be first, and thou shalt second be.”</l>
             </lg>
 
