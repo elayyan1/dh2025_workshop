@@ -36,7 +36,7 @@
    <text>
       <body>
          <div type="canto">
-            <pb facs="https://blog.comfebrasil.com.br/wp-content/uploads/2022/10/inferno-1024x892-1-e1665790490458.webp"/>
+            <pb facs="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Inferno_Canto_4_four_bards.jpg/590px-Inferno_Canto_4_four_bards.jpg"/>
             <head>The Inferno: Canto IV</head>
             <byline>Dante Alighieri</byline>
             <lg n="1" xml:id="lg001">
@@ -65,7 +65,7 @@
 
             <lg n="5" xml:id="lg005">
                <l n="13">“Let us descend now into the blind world,”</l>
-               <l n="14">Began the Poet, pallid utterly;</l>
+               <l n="14">Began <persName type="fictional" xml:id="virg01">the Poet</persName>, pallid utterly;</l>
                <l n="15">“I will be first, and thou shalt second be.”</l>
             </lg>
 
