@@ -1,0 +1,47 @@
+{
+    "editionTitle": "inferno canto IV",
+    "editionSubtitle": "DH2025",
+    "ignoreNamespace": true,
+    "documents": "//div[@type='canto']",
+    "documentContent": "",
+    "documentTitle": "head",
+    "documentAuthor": "",
+    "indexDocument": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "inputs": [
+        "https://raw.githubusercontent.com/elayyan1/dh2025_workshop/refs/heads/main/DToC_files/demo/Inferno_english_entities.xml"
+    ],
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//div",
+                "label": "div"
+            },
+            {
+                "xpath": "//persName[@subtype='greek']",
+                "label": "greek"
+            },
+            {
+                "xpath": "//persName",
+                "label": "people"
+            },
+            {
+                "xpath": "//persName[@role='philosopher']",
+                "label": "philosopher"
+            },
+            {
+                "xpath": "//persName[@role='poet']",
+                "label": "role"
+            },
+            {
+                "xpath": "//persName[@subtype='roman']",
+                "label": "roman"
+            }
+        ],
+        "toc": [
+            "4a234af798927871188f603d6a25ed5367ebdce32593fe6970e496280443fca5"
+        ]
+    }
+}
